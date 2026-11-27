@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Fernando
 
-<!--
-**Fernalndo/Fernalndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería en Computación**, apasionado por el desarrollo de software y la resolución de problemas mediante la tecnología.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías e Intereses
+* **Lenguajes:** Python, C++, C
+* **Áreas de interés:** Desarrollo de software, IA
+* **Herramientas:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Metas Académicas y Profesionales
+* **Corto plazo:** Aprender el uso correcto de herramientas de programación
+* **Mediano plazo:** Desarrollar mi primer proyecto personal 
+
+## 📫 Cómo contactarme
+* **LinkedIn:** (https://www.linkedin.com/in/fernando-l%C3%B3pez-guti%C3%A9rrez-872a7043b/)
+* **Correo:** ferlop1324@gmail.com
